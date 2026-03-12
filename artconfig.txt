@@ -1,0 +1,5 @@
+AddCharModel(0, 25000, "sherk.dff", "sherk.txd");
+AddCharModel(0, 30000, "ghost.dff", "ghost.txd");
+AddCharModel(0, 20001, "black.dff", "black.txd");
+AddCharModel(0, 20002, "invs.dff", "invs.txd");
+AddCharModel(0, 20003, "JW.dff", "JW.txd");
