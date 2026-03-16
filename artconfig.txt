@@ -4,4 +4,4 @@ AddCharModel(0, 20001, "black.dff", "black.txd");
 AddCharModel(0, 20002, "invs.dff", "invs.txd");
 AddCharModel(0, 20004, "JW.dff", "JW.txd");
 AddCharModel(0, 20005, "drip.dff", "drip.txd");
-AddSimpleModel(-1, 18912, -20006, "astro.dff", "astro.txd");
+AddCharModel(0, -29999, "astro.dff", "astro.txd");
