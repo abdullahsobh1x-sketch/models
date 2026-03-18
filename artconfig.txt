@@ -6,3 +6,4 @@ AddCharModel(0, 20004, "JW.dff", "JW.txd");
 AddCharModel(0, 20005, "drip.dff", "drip.txd");
 AddCharModel(0, 20006, "catnap.dff", "catnap.txd");
 AddCharModel(0, 20007, "arab.dff", "arab.txd");
+AddSimpleModel(-1, 521, -2000, "cobra.dff", "cobra.txd");
