@@ -5,5 +5,5 @@ AddCharModel(0, 20002, "invs.dff", "invs.txd");
 AddCharModel(1, 20003, "HuggyWuggy.dff", "HuggyWuggy.txd");
 AddCharModel(0, 20004, "JW.dff", "JW.txd");
 AddCharModel(0, 20005, "drip.dff", "drip.txd");
-AddSimpleModel(-1, 8, -1000, "katana.dff", "katana.txd");
+AddSimpleModel(-1, 8, -20008, "katana.dff", "katana.txd");
 AddCharModel(0, 20007, "arab.dff", "arab.txd");
