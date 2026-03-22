@@ -8,3 +8,4 @@ AddCharModel(0, 20005, "drip.dff", "drip.txd");
 AddCharModel(0, 20006, "finn.dff", "Finn.txd");
 AddSimpleModel(-1, 339, -5555, "bat.dff", "bat.txd");
 AddCharModel(0, 20007, "arab.dff", "arab.txd");
+AddCharModel(0, 20008, "janitor.dff", "janitor.txd");
